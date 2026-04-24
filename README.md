@@ -1,4 +1,4 @@
-# Hi there, I'm Raghad Waleed (Aura) 👋
+# Hi there, I'm Raghad Waleed  👋
 
 ### Software Engineer | AI Specialist | UI/UX Enthusiast 🎨
 Building intelligent web & mobile solutions with a creative design touch.
