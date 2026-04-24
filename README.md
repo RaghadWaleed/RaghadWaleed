@@ -15,7 +15,7 @@
 
 ---
 
-### 🧑‍💻 About Me
+### 🎀 About Me
 
 - 🔭 Passionate about full‑stack development and AI‑powered applications.
 - 🎨 Designing smooth user experiences with Figma & Adobe XD.
