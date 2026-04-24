@@ -20,7 +20,7 @@
 
 ---
 
-### 🧑‍💻 About Me
+### 🎀 About Me 🎀
 
 - 🔭 Passionate about full‑stack development and AI‑powered applications.
 - 🎨 Designing smooth user experiences with Figma & Adobe XD.
@@ -71,7 +71,7 @@
 
 ---
 
-### 🤝 Let's Connect
+###  Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/raghad-waleed-a1b113317" target="_blank">
