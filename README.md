@@ -1,74 +1,73 @@
-<!-- HEADER -->
+<!-- HEADER WAVE -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=200&section=header&text=Raghad%20Waleed&fontSize=65&fontAlignY=35&animation=fadeIn&fontColor=white" width="100%" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=200&section=header&text=Raghad%20Waleed&fontSize=65&fontAlignY=35&animation=fadeIn&fontColor=white" width="100%" alt="Header Wave"/>
 </div>
 
-<!-- TYPING SVG -->
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
+  Hi, I'm Raghad Waleed
+</h1>
+
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Software+Engineer+%F0%9F%92%BB;AI+Specialist+%F0%9F%A4%96;UI%2FUX+Enthusiast+%F0%9F%8E%A8;Building+intelligent+solutions+%E2%9C%A8" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF1493&center=true&vCenter=true&width=435&lines=Software+Engineer;AI+Specialist;UI%2FUX+Enthusiast;Building+intelligent+solutions" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <em>Crafting intelligent web & mobile solutions with a creative design touch.</em> 🎨
-</p>
-
-<!-- PROFILE VIEWS -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RaghadWaleed&style=for-the-badge&color=ff69b4" alt="Profile views"/>
+  <em>Building intelligent web & mobile solutions with a creative design touch.</em> 🎨
 </p>
 
 <br/>
 
 ---
 
-### 🧠 About Me
+### 🧑‍💻 About Me
 
-- 🔭 Building full‑stack apps & diving deep into AI.
-- 🎨 Designing pixel‑perfect interfaces in Figma & Adobe XD.
-- 🌱 Lifelong learner – currently mastering advanced Flutter animations.
-- ✨ Turning complex problems into elegant, user‑friendly products.
-
----
-
-### ⚡ Tech Arsenal
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,cs,js,ts,php,html,css,react,tailwind,flutter,dart,dotnet,firebase,sqlite,mysql,figma,xd&perline=9" alt="Skills"/>
-</p>
-
-> 🛠️ *Every tool above is part of my daily crafting process.*
+- 🔭 Passionate about full‑stack development and AI‑powered applications.
+- 🎨 Designing smooth user experiences with Figma & Adobe XD.
+- 🌱 Always exploring new technologies and best practices.
+- ✨ Turning complex ideas into simple, beautiful products.
 
 ---
 
-### 📊 GitHub Insights
+### ⚡ Tech Stack
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaghadWaleed&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaghadWaleed&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Languages"/>
-</div>
+#### 👨‍💻 Languages
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-<br/>
+#### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RaghadWaleed&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Trophies"/>
-</div>
+#### 📱 Mobile & Backend
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
-<br/>
+#### 🗄️ Database
+![SQL](https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=sqlite)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-<!-- CONTRIBUTION CHART (custom color) -->
-<div align="center">
-  <img src="https://ghchart.rshah.org/FF69B4/RaghadWaleed" alt="Contribution Chart" width="80%"/>
-</div>
+#### ✨ Design
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
 
 ---
 
-### 🎲 Dev Quote
+### 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaghadWaleed&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaghadWaleed&layout=compact&theme=radical&hide_border=true" />
+</div>
 
 ---
 
@@ -78,19 +77,19 @@
   <a href="https://www.linkedin.com/in/raghad-waleed-a1b113317" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  &nbsp;
   <a href="https://t.me/rrDevX" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  &nbsp;
   <a href="https://t.me/RW_DevX_R" target="_blank">
     <img src="https://img.shields.io/badge/DevX%20Channel-26A69A?style=for-the-badge&logo=telegram&logoColor=white" alt="Channel"/>
   </a>
 </p>
 
-<br/>
+---
+
+<p align="center">⭐️ <em>Keep coding, keep creating!</em></p>
 
 <!-- FOOTER WAVE -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=150&section=footer&animation=fadeIn" width="100%" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=150&section=footer&animation=fadeIn" width="100%" alt="Footer Wave"/>
 </div>
